@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "泡沫、哀のまほろば(with senya) <幻想万華鏡 永夜異変の章 OP主題歌>",
+  "base_artist": "幽閉サテライト",
+  "createdAt": "2025-12-02T05:29:58.742170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "泡沫、哀のまほろば(with senya) <幻想万華鏡 永夜異変の章 OP主題歌>",
+      "artist": "幽閉サテライト",
+      "has_synced": true,
+      "path": "select/01_泡沫、哀のまほろば(with_senya)__幻想万華鏡_永夜異変の章_OP主題歌_幽閉サテライト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "泡沫、哀のまほろば(with senya) <幻想万華鏡 永夜異変の章 OP主題歌>",
+      "artist": "Yuuhei Satellite",
+      "has_synced": true,
+      "path": "select/02_泡沫、哀のまほろば(with_senya)__幻想万華鏡_永夜異変の章_OP主題歌_Yuuhei_Satellite.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡沫、哀のまほろば",
+      "artist": "幽閉サテライト",
+      "has_synced": false,
+      "path": "select/pl_01_泡沫、哀のまほろば_幽閉サテライト.txt"
+    }
+  ]
+}
